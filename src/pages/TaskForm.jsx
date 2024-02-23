@@ -52,7 +52,7 @@ function TaskForm({onClose}) {
                     <Button type='submit' colorScheme='blue' mr={3} onClick={onClose}>
                         Submit
                     </Button>
-                    <Button colorScheme='Red' mr={3} onClick={onClose}>
+                    <Button colorScheme='red' mr={3} onClick={onClose}>
                         Cancel
                     </Button>
                 </Box>
